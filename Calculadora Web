@@ -1,0 +1,16 @@
+
+Este é um projeto pessoal de uma calculadora web simples e funcional, construída com foco em demonstrar e aprimorar minhas habilidades com as tecnologias essenciais do desenvolvimento front-end. O objetivo é oferecer uma ferramenta de cálculo básica com uma interface limpa e intuitiva, que funcione perfeitamente em diferentes dispositivos.
+
+Funcionalidades
+Operações Básicas: Realiza soma, subtração, multiplicação e divisão.
+
+Interface Intuitiva: Design simples e direto, facilitando o uso para qualquer pessoa.
+
+Responsividade: O layout se adapta a telas de diferentes tamanhos, como computadores, tablets e smartphones.
+
+Tecnologias Utilizadas
+HTML5: Utilizado para a estrutura fundamental da página, garantindo a semântica correta dos elementos.
+
+CSS3: Responsável pela estilização completa da interface, incluindo o design dos botões, cores e a adaptação do layout.
+
+JavaScript: A "inteligência" por trás da calculadora. É a linguagem que controla toda a lógica, desde a captura dos cliques do usuário até a execução dos cálculos.
